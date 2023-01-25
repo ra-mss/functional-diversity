@@ -1,0 +1,16 @@
+Especie	Talla	Movilidad	Actividad	Agrupamiento	Posicion	Dieta
+Anisotremus_interruptus	5	3	B	1	2	C
+Bodianus_diplotaenia	5	3	A	1	1	C
+Cephalopholis_panamensis	4	2	A	1	1	E
+Chromis_atrilobata	2	2	A	4	2	D
+Cirrhitichthys_oxycephalus	2	1	A	3	1	E
+Crocodilichthys_gracilis	1	1	A	1	1	F
+Epinephelus_labriformis	5	2	B	1	1	E
+Fistularia_commersonii	6	3	A	1	2	E
+Halichoeres_chierchiae	3	2	A	1	1	C
+Hoplopagrus_guentherii	6	3	B	1	1	E
+Microspathodon_dorsalis	4	1	A	1	1	A
+Myripristis_leiognathos	3	2	B	3	2	D
+Paranthias_colonus	4	3	A	4	2	D
+Pseudupeneus_maculatus	3	2	A	3	1	C
+Thalassoma_lucasanum	2	2	A	3	2	C

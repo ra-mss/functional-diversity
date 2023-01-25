@@ -1,0 +1,10 @@
+	Abudefduf_troschelii	Anisotremus_interruptus	Aulostomus_chinensis	Bodianus_diplotaenia	Cephalopholis_panamensis	Chromis_atrilobata	Crocodilichthys_gracilis	Haemulon_maculicauda	Halichoeres_chierchiae	Kyphosus_analogus	Lutjanus_novemfasciatus	Microspathodon_dorsalis	Myripristis_leiognathos	Paranthias_colonus	Pomacanthus_zonipectus	Scarus_perrico	Scarus_taeniopterus	Thalassoma_lucasanum
+La_Ballena_1	4	0	1	1	0	50	4	8	0	0	1	0	5	2	0	1	4	0
+La_Ballena_2	5	0	0	0	1	110	0	0	0	0	0	0	0	1	0	6	0	4
+La_Ballena_3	15	3	0	1	0	20	0	10	0	1	1	1	0	0	0	0	0	0
+La_Ballena_4	63	3	2	0	0	85	0	0	0	1	0	1	0	0	0	4	2	8
+La_Ballena_5	40	0	1	0	0	40	0	39	0	0	6	0	0	0	0	0	1	0
+La_Ballena_6	6	1	0	0	4	3	0	102	1	0	0	0	0	0	0	0	0	6
+La_Ballena_7	2	0	0	0	1	0	2	24	0	0	0	0	0	0	0	0	0	0
+La_Ballena_8	36	0	0	0	1	0	0	0	1	1	5	0	0	23	1	0	0	13
+La_Ballena_9	0	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0

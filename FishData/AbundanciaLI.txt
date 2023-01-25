@@ -1,0 +1,11 @@
+	Anisotremus_interruptus	Bodianus_diplotaenia	Cephalopholis_panamensis	Chromis_atrilobata	Cirrhitichthys_oxycephalus	Crocodilichthys_gracilis	Epinephelus_labriformis	Fistularia_commersonii	Halichoeres_chierchiae	Hoplopagrus_guentherii	Microspathodon_dorsalis	Myripristis_leiognathos	Paranthias_colonus	Pseudupeneus_maculatus	Thalassoma_lucasanum
+Los_Islotes_1	0	12	0	81	14	24	6	0	7	0	0	0	23	0	18
+Los_Islotes_2	2	2	0	52	0	0	0	0	1	0	0	0	74	1	33
+Los_Islotes_3	0	0	0	30	1	0	0	0	0	0	0	0	12	0	17
+Los_Islotes_4	0	3	1	131	0	2	1	1	0	0	0	0	6	0	0
+Los_Islotes_5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Los_Islotes_6	0	4	0	0	4	14	2	0	0	0	2	9	0	0	0
+Los_Islotes_7	3	1	1	0	0	2	2	0	0	1	2	0	0	0	0
+Los_Islotes_8	0	3	1	15	1	2	3	0	0	0	0	0	0	0	0
+Los_Islotes_9	0	4	0	0	0	0	0	0	0	0	4	0	0	0	0
+Los_Islotes_10	0	1	3	380	3	0	4	0	0	0	0	0	0	0	0

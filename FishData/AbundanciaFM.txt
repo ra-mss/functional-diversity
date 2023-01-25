@@ -1,0 +1,11 @@
+	Anisotremus_interruptus	Bodianus_diplotaenia	Cephalopholis_panamensis	Chromis_atrilobata	Cirrhitichthys_oxycephalus	Crocodilichthys_gracilis	Elacatinus_oceanops	Halichoeres_chierchiae	Kyphosus_analogus	Muraena_lentiginosa	Paranthias_colonus	Pomacanthus_zonipectus	Scarus_perrico	Thalassoma_lucasanum
+Fang_Ming_1	0	12	0	10	0	1	3	0	1	2	3	7	0	12
+Fang_Ming_2	0	5	0	3	0	0	0	3	0	0	3	4	0	4
+Fang_Ming_3	1	3	0	20	0	0	0	0	0	0	8	4	0	2
+Fang_Ming_4	1	15	1	62	0	0	0	0	0	0	5	3	3	23
+Fang_Ming_5	0	1	0	0	4	0	0	1	0	0	90	0	0	0
+Fang_Ming_6	0	4	1	3	3	12	0	1	0	0	16	0	0	0
+Fang_Ming_7	0	4	0	0	5	0	0	3	0	0	2	0	0	0
+Fang_Ming_8	0	3	0	40	1	0	0	0	0	0	21	1	0	0
+Fang_Ming_9	0	3	0	1550	4	0	0	1	0	0	24	3	0	0
+Fang_Ming_10	0	3	1	30	11	1	0	0	0	0	10	0	0	0
